@@ -1,4 +1,4 @@
-# Real Estate and Property Management Analysis
+# Property Management Analysis
 
 ### Problem Statement
 
