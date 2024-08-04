@@ -30,8 +30,7 @@ As a Data Analyst, I developed a comprehensive real estate and property manageme
 - **Define Structure**: Start by outlining the structure of each report page on PowerPoint slides. Use rectangles and text boxes to represent different visual elements like charts, maps, and filters.
 - **Layout Design**: Position the elements according to their importance and logical flow. For instance, place key metrics at the top and more detailed visuals below.
 - **Navigation Buttons**: Add shapes or buttons on the slides to simulate page navigation. Label these buttons according to the page or section they will navigate to in the final Power BI report.
-
-[Real Estate Background Layouts.pptx](https://prod-files-secure.s3.us-west-2.amazonaws.com/0391df94-4734-4849-a107-fd90a40b7b76/23570d81-a69f-4ac6-85bc-295eab67d345/Real_Estate_Background_Layouts.pptx)
+[Real Estate Background Layouts.pptx](https://prod-files-secure.s3.us-west-2.amazonaws.com/0391df94-4734-4849-a107-fd90a40b7b76/15771347-3be9-4a7b-8d12-0ec5230917c2/Real_Estate_Background_Layouts.pptx)
 
 **Step 4: Visualization**
 
