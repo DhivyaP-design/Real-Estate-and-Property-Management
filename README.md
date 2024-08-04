@@ -52,8 +52,10 @@ As a Data Analyst, I developed a comprehensive real estate and property manageme
     - Ensure that the navigation is intuitive, allowing users to easily move between different sections of the report.
 - **Styling and Formatting**: Customize the theme, colors, and fonts to maintain consistency and visual appeal across the report.
 
-![image](https://github.com/user-attachments/assets/e8590249-4a9c-4c60-bdb0-beb6457008c8)
-![image](https://github.com/user-attachments/assets/28e2c2cd-9dfe-4737-9a62-166f73896633)
+![image](https://github.com/user-attachments/assets/80fc88c1-12a1-4e3a-9909-25fe8039a79d)
+
+![image](https://github.com/user-attachments/assets/96608191-18fe-405c-98e1-3cf1d4635743)
+
 
 
 **Insights and Recommendations**
